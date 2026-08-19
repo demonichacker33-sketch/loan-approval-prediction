@@ -1,6 +1,11 @@
 # Loan Approval Prediction using Machine Learning
 
+Dataset:
+The dataset is not included in this repository.
+To run the notebook, download the dataset and place it
+in the project directory with the required filename.
 
+Model:
 A machine learning project that predicts whether a loan application is likely to be Approved or Rejected based on applicant financial, personal, and employment information.
 
 📊 Important Features
